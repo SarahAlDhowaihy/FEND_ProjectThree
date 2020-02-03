@@ -1,7 +1,7 @@
 # Classic Arcade Game Clone Project
 
 ## Table of Contents
-- [Basic Functionality](#Basic Functionality)
+- [Basic_Functionality](#Basic Functionality)
 - [Run](#Run)
 - [Play](#Play)
 
